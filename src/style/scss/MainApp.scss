@@ -1,5 +1,6 @@
 @import './normalize.scss';
 @import './reset.scss';
+@import './ComponentsStyles/Messages.scss';
 
 $navBackgroundColor: #EFEFEF;
 $navBackgroundColorHover: #E3E3E3;
@@ -42,6 +43,11 @@ $navBackgroundColorHover: #E3E3E3;
                     }
                 }
             }
+        }
+
+        &-activePage {
+            max-width: 1000px;
+            width: 100%;
         }
     }
 

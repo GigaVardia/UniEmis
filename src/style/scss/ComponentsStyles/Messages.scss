@@ -1,0 +1,53 @@
+@mixin boxShadow {
+    -webkit-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.38);
+    -moz-box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.38);
+    box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.38);
+}
+
+.messages {
+    &-outer {
+        width: 100%;
+        padding: 10px;
+    }
+
+    &-inner {
+        width: 100%;
+        height: auto;
+        border: 1px solid black;
+
+        &-top {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px;
+            @include boxShadow;
+           
+
+            &-left {
+                &-wrapper {
+                    display: flex;
+
+                    li {
+                        font-size: 14px;
+                        padding: 5px;
+                    }
+                }
+            }
+
+            &-right {
+                align-self: flex-end;
+
+                &-newMsg {
+                    &-btn {
+                        background-color: #47924A;
+                        border: none;
+                        border-radius: 2px;
+                        padding: 5px;
+                        text-align: center;
+                        color: #fff;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+}

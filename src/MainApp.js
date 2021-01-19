@@ -8,7 +8,7 @@ class MainApp extends Component {
         super(props)
 
         this.state = {
-            active: 'messages'
+            active: Messages
         }
     }
 
@@ -19,7 +19,8 @@ class MainApp extends Component {
                 <div className="mainApp-inner">
                     <nav className="mainApp-inner-nav">
                         <ul className="mainApp-inner-nav-wrapper">
-                            <li className="mainApp-inner-nav-wrapper-messages">
+                            <li className="mainApp-inner-nav-wrapper-messages"
+                            >
                                 შეტყობინებები
                             </li>
 
@@ -72,6 +73,10 @@ class MainApp extends Component {
                             </li>
                         </ul>
                     </nav>
+
+                    <div className="mainApp-inner-activePage">
+                        <this.state.active />
+                    </div>
                 </div>
             </div>
         )
