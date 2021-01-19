@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/UniEmis/static/css/main.d65cbfe1.chunk.css",
-    "main.js": "/UniEmis/static/js/main.8be0a6b1.chunk.js",
-    "main.js.map": "/UniEmis/static/js/main.8be0a6b1.chunk.js.map",
+    "main.css": "/UniEmis/static/css/main.f86ffa5e.chunk.css",
+    "main.js": "/UniEmis/static/js/main.deb86520.chunk.js",
+    "main.js.map": "/UniEmis/static/js/main.deb86520.chunk.js.map",
     "runtime-main.js": "/UniEmis/static/js/runtime-main.40b7f9f3.js",
     "runtime-main.js.map": "/UniEmis/static/js/runtime-main.40b7f9f3.js.map",
-    "static/js/2.75377260.chunk.js": "/UniEmis/static/js/2.75377260.chunk.js",
-    "static/js/2.75377260.chunk.js.map": "/UniEmis/static/js/2.75377260.chunk.js.map",
+    "static/js/2.7d38ff75.chunk.js": "/UniEmis/static/js/2.7d38ff75.chunk.js",
+    "static/js/2.7d38ff75.chunk.js.map": "/UniEmis/static/js/2.7d38ff75.chunk.js.map",
     "index.html": "/UniEmis/index.html",
-    "static/css/main.d65cbfe1.chunk.css.map": "/UniEmis/static/css/main.d65cbfe1.chunk.css.map",
-    "static/js/2.75377260.chunk.js.LICENSE.txt": "/UniEmis/static/js/2.75377260.chunk.js.LICENSE.txt",
+    "static/css/main.f86ffa5e.chunk.css.map": "/UniEmis/static/css/main.f86ffa5e.chunk.css.map",
+    "static/js/2.7d38ff75.chunk.js.LICENSE.txt": "/UniEmis/static/js/2.7d38ff75.chunk.js.LICENSE.txt",
     "static/media/MainApp.scss": "/UniEmis/static/media/bpg_mrgvlovani_caps_2010.e513097f.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.40b7f9f3.js",
-    "static/js/2.75377260.chunk.js",
-    "static/css/main.d65cbfe1.chunk.css",
-    "static/js/main.8be0a6b1.chunk.js"
+    "static/js/2.7d38ff75.chunk.js",
+    "static/css/main.f86ffa5e.chunk.css",
+    "static/js/main.deb86520.chunk.js"
   ]
 }
