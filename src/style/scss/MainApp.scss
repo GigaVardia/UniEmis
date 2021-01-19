@@ -1,0 +1,48 @@
+@import './normalize.scss';
+@import './reset.scss';
+
+$navBackgroundColor: #EFEFEF;
+$navBackgroundColorHover: #E3E3E3;
+
+// === Global >
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+// === Global <
+
+.mainApp {
+    &-outer {
+
+    }
+
+    &-inner {
+        display: flex;
+
+        &-nav {
+            &-wrapper {
+                display: flex;
+                flex-direction: column;
+                list-style: none;
+                background-color: $navBackgroundColor;
+
+                li {
+                    font-size: 13px;
+                    // word-wrap: break-word;
+                    color: black;
+                    padding: 40px 0;
+                    width: 150px;
+                    text-align: center;
+                    cursor: pointer;
+
+                    &:hover {
+                        background-color: $navBackgroundColorHover;
+                        transition: .3s;
+                    }
+                }
+            }
+        }
+    }
+
+}
