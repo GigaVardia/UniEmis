@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/UniEmis/static/css/main.47affeca.chunk.css",
-    "main.js": "/UniEmis/static/js/main.b05d9a45.chunk.js",
-    "main.js.map": "/UniEmis/static/js/main.b05d9a45.chunk.js.map",
+    "main.css": "/UniEmis/static/css/main.816cf63c.chunk.css",
+    "main.js": "/UniEmis/static/js/main.8fbf08c7.chunk.js",
+    "main.js.map": "/UniEmis/static/js/main.8fbf08c7.chunk.js.map",
     "runtime-main.js": "/UniEmis/static/js/runtime-main.40b7f9f3.js",
     "runtime-main.js.map": "/UniEmis/static/js/runtime-main.40b7f9f3.js.map",
     "static/js/2.83729af2.chunk.js": "/UniEmis/static/js/2.83729af2.chunk.js",
     "static/js/2.83729af2.chunk.js.map": "/UniEmis/static/js/2.83729af2.chunk.js.map",
     "index.html": "/UniEmis/index.html",
-    "static/css/main.47affeca.chunk.css.map": "/UniEmis/static/css/main.47affeca.chunk.css.map",
+    "static/css/main.816cf63c.chunk.css.map": "/UniEmis/static/css/main.816cf63c.chunk.css.map",
     "static/js/2.83729af2.chunk.js.LICENSE.txt": "/UniEmis/static/js/2.83729af2.chunk.js.LICENSE.txt",
     "static/media/MainApp.scss": "/UniEmis/static/media/bpg_mrgvlovani_caps_2010.e513097f.ttf",
     "static/media/userImg.699c787a.jpg": "/UniEmis/static/media/userImg.699c787a.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.40b7f9f3.js",
     "static/js/2.83729af2.chunk.js",
-    "static/css/main.47affeca.chunk.css",
-    "static/js/main.b05d9a45.chunk.js"
+    "static/css/main.816cf63c.chunk.css",
+    "static/js/main.8fbf08c7.chunk.js"
   ]
 }
